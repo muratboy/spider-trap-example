@@ -1,1 +1,1 @@
-"# spider-trap-example" 
+Spider trap example for demonstration
