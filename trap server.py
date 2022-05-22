@@ -22,9 +22,9 @@ class MyServer(BaseHTTPRequestHandler):
 
         link1=str(x*2)
         link2=str(x*2+1)
-        self.wfile.write(bytes("<a href=%s>Link - %s</a>" % (link1, x),"utf-8"))
+        self.wfile.write(bytes("<a href=%s>Link - %s</a>" % (link1, x*2),"utf-8"))
         self.wfile.write(bytes("<br>", "utf-8"))
-        self.wfile.write(bytes("<a href=%s>Link - %s</a>" % (link2, x+1),"utf-8"))
+        self.wfile.write(bytes("<a href=%s>Link - %s</a>" % (link2, x*2+1),"utf-8"))
 
         ##################################################################
 
