@@ -1,4 +1,8 @@
 # Spider trap example for demonstration
 
 
-![spider_trap](https://user-images.githubusercontent.com/15326303/169716657-2e29dc9d-fa81-48ef-8cbd-3e9b78f3ee82.png)
+![spider_trap](https://user-images.githubusercontent.com/15326303/172228309-cf8aebca-3723-40de-90f7-b25ef6e59d1b.png)
+
+run the python server
+
+[[localhost]](http://localhost:8080)
